@@ -23,7 +23,7 @@
     "docs"
   ],
   "scripts": {
-    "dev": "vite",
+    "start": "vite",
     "build": "tsc -b && vite build",
     "preview": "vite preview",
     "prepublishOnly": "npm run build"
