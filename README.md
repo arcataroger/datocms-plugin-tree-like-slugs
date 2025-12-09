@@ -18,3 +18,6 @@ With the plugin, after updating the Grandparent record:
   * Parent: /grandparent-new/parent
     *  Child: /grandparent-new/parent/child
 
+## Changelog
+- 0.3.1: Dependency updates and bug fixes. Migrated to newer plugin SDK version.
+- 0.3.0: Previous release
